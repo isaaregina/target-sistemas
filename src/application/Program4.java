@@ -17,18 +17,21 @@ public class Program4 {
 		// calculando pedagio e convertendo para horas
 		pedagio = 5 * 2 / 60.0;
 		
-		//calculo da distância do carro e caminhão
+		// cálculo da distância do carro e caminhão
 		tempoDoCarro = distancia / velocidadeCarro;
 		tempodoCaminhao = (distancia / velocidadeCaminhao);
 		
+		// cálculo do pedagio + tempo do caminhão
 		conta1 = tempodoCaminhao + pedagio; 
+		
+		// calculo da velocidade média do caminhão e do carro
 		conta2 = 100 / conta1;
 		conta3 = 100 / tempoDoCarro;
 		
+		// cálculo da distância da cidade de Ribeirão Preto em que o carro e o caminhão se cruzam
 		conta4 = (conta3 * distancia) / (conta3 + conta2);
 		
-		
-		// Esta é a distância em 
+
 		System.out.println("Distância da cidade de Ribeirão Preto em que o carro e o caminhão se cruzam: " +
 		String.format("%.2f", conta4) + "km");
 		
