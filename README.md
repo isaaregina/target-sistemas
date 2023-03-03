@@ -56,4 +56,39 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse; <br /> <br />
 
+<<<<<<< HEAD
 <b>OBS: Questões 1,2,3,4 e 5, estão em seus respectivos Program's. Program1 é a questão 1 e assim por diante!</b>
+=======
+e) 1, 1, 2, 3, 5, 8, ____
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+
+
+4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+
+
+
+IMPORTANTE:
+
+a) Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.
+
+b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)
+
+c) Explique como chegou no resultado.
+
+ 
+
+5) Escreva um programa que inverta os caracteres de um string.
+
+
+
+IMPORTANTE:
+
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+
+b) Evite usar funções prontas, como, por exemplo, reverse; <br />
+
+
+OBS: Questões 1,2,3,4 e 5, estão em seus respectivos Program's. Program1 é a questão 1 e assim por diante!
+>>>>>>> 28a7126ec269c574198c35c7125afaad54d2fee1
