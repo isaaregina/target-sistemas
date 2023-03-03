@@ -26,17 +26,17 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 
 3. Descubra a lógica e complete o próximo elemento: <br /> <br />
 
-a) 1, 3, 5, 7, \_\_\_ <br />
+a) 1, 3, 5, 7, ____ <br />
 
-b) 2, 4, 8, 16, 32, 64, \_\_\_\_ <br />
+b) 2, 4, 8, 16, 32, 64, ____ <br />
 
-c) 0, 1, 4, 9, 16, 25, 36, \_\_\_\_ <br />
+c) 0, 1, 4, 9, 16, 25, 36, ____ <br />
 
-d) 4, 16, 36, 64, \_\_\_\_ <br />
+d) 4, 16, 36, 64, ____ <br />
 
-e) 1, 1, 2, 3, 5, 8, \_\_\_\_ <br />
+e) 1, 1, 2, 3, 5, 8, ____ <br />
 
-f) 2,10, 12, 16, 17, 18, 19, \_\_\_\_ <br /> <br />
+f) 2,10, 12, 16, 17, 18, 19, ____ <br /> <br />
 
 4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto? <br /> <br />
 
@@ -54,41 +54,37 @@ IMPORTANTE: <br />
 
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código; <br />
 
-b) Evite usar funções prontas, como, por exemplo, reverse; <br /> <br />
+b) Evite usar funções prontas, como, por exemplo, reverse; <br /> 
 
-<<<<<<< HEAD
-<b>OBS: Questões 1,2,3,4 e 5, estão em seus respectivos Program's. Program1 é a questão 1 e assim por diante!</b>
-=======
-e) 1, 1, 2, 3, 5, 8, ____
+e) 1, 1, 2, 3, 5, 8, ____ <br />
 
-f) 2,10, 12, 16, 17, 18, 19, ____
+f) 2,10, 12, 16, 17, 18, 19, ____ <br />
 
 
 
-4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto? <br /> <br />
 
 
 
-IMPORTANTE:
+IMPORTANTE: <br />
 
-a) Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.
+a) Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca. <br />
 
-b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)
+b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar) <br />
 
-c) Explique como chegou no resultado.
+c) Explique como chegou no resultado. <br /> <br />
 
  
 
-5) Escreva um programa que inverta os caracteres de um string.
+5) Escreva um programa que inverta os caracteres de um string. <br /> <br />
 
 
 
-IMPORTANTE:
+IMPORTANTE: <br />
 
-a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código; <br />
 
-b) Evite usar funções prontas, como, por exemplo, reverse; <br />
+b) Evite usar funções prontas, como, por exemplo, reverse; <br /> <br />
 
 
-OBS: Questões 1,2,3,4 e 5, estão em seus respectivos Program's. Program1 é a questão 1 e assim por diante!
->>>>>>> 28a7126ec269c574198c35c7125afaad54d2fee1
+<b>OBS: Questões 1,2,3,4 e 5, estão em seus respectivos Program's. Program1 é a questão 1 e assim por diante!<b>
