@@ -1,4 +1,4 @@
-<h1> Job Rotation - Ribeirão Preto - ATUALIZADO </h1> <br /> <br />
+<h1> Job Rotation - Ribeirão Preto - ATUALIZADO </h1> <br /> 
 
 1 - Observe o trecho de código abaixo: <br />
 
