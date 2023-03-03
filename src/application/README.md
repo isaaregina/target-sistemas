@@ -1,3 +1,5 @@
+Job Rotation - Ribeirão Preto - ATUALIZADO
+
 1) Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
@@ -73,8 +75,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
 
-OBS: Questão 1 está no Program1
-     Questão 2 está no Program2
-     Questão 3 está no Program3
-     Questão 4 está no Program4
-     Questão 5 está no Program5
+OBS: Questões 1,2,3,4 e 5, estão em seus respectivos Program's. Program1 é a questão 1 e assim por diante!
